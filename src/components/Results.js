@@ -64,7 +64,7 @@ function Results() {
         <br /><br />
         The Mapper helps you explore your beliefs about intelligence by lorem ipsum.
         <br /><br />
-        The Survey is a different way of exploring your beliefs about mindset. It uses the 4 questions … lorem ipsum.</p>
+        The Survey is a different way of exploring your beliefs about mindset. It uses the 4 questions ... lorem ipsum.</p>
                 {(growthTerms.response && growthTerms.response[0].payload.length) ? growthWords : ''}
                 {growthTerms.response ? growthString : ''}
 
